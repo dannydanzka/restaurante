@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Restaurante</string>
+
+    <!-- Activity de Ingreso -->
+    <string name="ingreso_correo">Correo electrónico</string>
+    <string name="ingreso_contrasena">Contraseña</string>
+    <string name="ingreso_guardar">Guardar datos</string>
+    <string name="ingreso_ingresar">Ingresar</string>
+    <string name="ingreso_borrar">Limpiar</string>
+
+    <!-- Activity de Pedido -->
+    <string name="pedido_nombre">Nombre</string>
+    <string name="pedido_domicilio">Domicilio</string>
+    <string name="pedido_producto">Producto</string>
+    <string name="pedido_tamano">Tamaño</string>
+    <string name="pedido_telefono">Teléfono de contacto</string>
+    <string name="pedido_registrar">Registrar pedido</string>
+    <string name="pedido_cancelar">Cancelar pedido</string>
+
+    <!-- Activity de Platillos -->
+    <string name="platillos_lista">Lista de Platillos</string>
+
+    <!-- Activity de Mis Compras -->
+    <string name="compras_historial">Historial de Compras</string>
+
+    <!-- Activity de Nosotros -->
+    <string name="nosotros_info">Sobre Nosotros</string>
+
+    <!-- Opciones del Menú -->
+    <string name="menu_pedido">Pedido</string>
+    <string name="menu_platillos">Platillos</string>
+    <string name="menu_mis_compras">Mis Compras</string>
+    <string name="menu_nosotros">Nosotros</string>
+    <string name="menu_cerrar_sesion">Cerrar sesión</string>
+
+    <!-- Opciones del Spinner -->
+    <string-array name="productos">
+        <item>Hamburguesa</item>
+        <item>Pizza</item>
+        <item>Hot Dog</item>
+        <item>Ensalada</item>
+        <item>Tacos</item>
+    </string-array>
+
+    <string-array name="tamanos">
+        <item>Chico</item>
+        <item>Mediano</item>
+        <item>Grande</item>
+    </string-array>
+</resources>

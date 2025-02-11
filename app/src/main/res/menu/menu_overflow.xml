@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itmPedido" android:title="@string/menu_pedido"/>
+    <item android:id="@+id/itmPlatillos" android:title="@string/menu_platillos"/>
+    <item android:id="@+id/itmMisCompras" android:title="@string/menu_mis_compras"/>
+    <item android:id="@+id/itmNosotros" android:title="@string/menu_nosotros"/>
+    <item android:id="@+id/itmCerrarSesion" android:title="@string/menu_cerrar_sesion"/>
+</menu>
